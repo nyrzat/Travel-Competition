@@ -1,0 +1,23 @@
+@media screen and (max-width: 1000px){
+    .container-inner{
+        max-width: 90%;
+    }
+    .block-full-name{
+        width: 48%;
+    }
+    .block-aplicition{
+        width: 48%;
+    }
+    .surname {
+        width: 100%;
+    }
+    .name{
+        width: 100%;
+    }
+    .patronymic{
+        width: 100%;
+    }
+   .blockk{
+        width: 48%;
+   }
+}
